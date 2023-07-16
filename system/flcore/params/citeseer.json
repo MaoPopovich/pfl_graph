@@ -1,0 +1,11 @@
+{
+    "num_hidden": 256,
+    "num_proj_hidden": 256,
+    "drop_edge_rate_1": 0.3,
+    "drop_edge_rate_2": 0.2, 
+    "drop_feature_rate_1": 0.2,
+    "drop_feature_rate_2": 0.3,
+    "tau": 0.4,
+    "drop_scheme": "degree",
+    "scale_ratio": 1
+}
